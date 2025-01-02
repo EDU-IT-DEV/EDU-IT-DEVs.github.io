@@ -7,3 +7,10 @@ https://manifest-gen.netlify.app/
 
 Fix de imagenes png:
 https://www.gimp.org/downloads/
+
+Página para generar imagenes/iconos para PWA
+https://manifest-gen.netlify.app/
+
+
+Emulador de dispositivos:
+https://www.browserstack.com/
