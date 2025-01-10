@@ -23,8 +23,12 @@ function borrarProd(index) {
 }
 
 function cambiarValorProd(que, cual, el) {
+    console.log('cambiarValorProd', que, cual, el)
+    console.dir(el)
 
     const valor = el.value
+    //if(que == 'cantidad') listaProductos[cual].cantidad = parseInt(valor)
+    //else if(que == 'precio') listaProductos[cual].precio = parseFloat(valor)
 
     listaProductos[cual][que] = que == 'cantidad'? parseInt(valor) : parseFloat(valor)
 }

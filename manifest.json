@@ -1,10 +1,10 @@
 {
-  "name": "App Super Lista",
-  "short_name": "SuperLista",
-  "theme_color": "#fff",
-  "background_color": "#fff",
+  "name": "Super Lista de Compras",
+  "short_name": "Super Lista",
+  "theme_color": "#3F51B5",
+  "background_color": "#FF4081",
   "display": "standalone",
-  "orientation": "portrait",
+  "orientation": "any",
   "scope": "/",
   "start_url": "/",
   "icons": [
@@ -50,20 +50,20 @@
       "type": "image/png"
     }
   ],
-  "screenshots": [
+  "screenshots" : [
     {
-      "src": "screenshots-movil.png",
-      "sizes": "383x692",
+      "src": "screenshot-movil.png",
+      "sizes": "504x706",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Homescreen de la App SuperLista"
     },
     {
-      "src": "screenshots-desktop.png",
-      "sizes": "1256x730",
+      "src": "screenshot-desktop.png",
+      "sizes": "1366x728",
       "type": "image/png",
       "form_factor": "wide",
       "label": "Listado de Recursos disponibles en la App SuperLista"
     }
-  ]
+  ]  
 }
