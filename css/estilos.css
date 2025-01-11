@@ -27,3 +27,8 @@
 .demo-list-icon {
    /* width: 300px; */
 }
+
+img {
+    width: 100%;
+    max-width: 800px;
+}
